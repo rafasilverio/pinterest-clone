@@ -13,6 +13,8 @@ gem 'simple_form'
 gem 'bootstrap-sass'
 gem 'devise'
 gem 'paperclip'
+gem 'masonry-rails'
+gem 'acts_as_votable', '~> 0.10.0'
 
 group :development, :test do
   gem 'byebug'
